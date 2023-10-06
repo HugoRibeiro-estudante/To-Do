@@ -1,0 +1,84 @@
+validator:{
+  $jsonSchema: {
+    bsonType: "object",
+    required: ["name", "start_date", "end_date", "tasks", "users"],
+    properties: {
+      name: {
+        bsonType: "string",
+        description: "Nome deve ser uma string e é obrigatório"
+      },
+      start_date: {
+        bsonType: "date",
+        description: "Data de início do projeto é obrigatória e deve ser uma data."
+      },
+      end_date: {
+        bsonType: "date",
+        description: "Data de término do projeto é obrigatória e deve ser uma data."
+      },
+      tasks: {
+        bsonType: "array",
+        description: "Lista de tarefas do projeto.",
+        items: {
+          bsonType: "object",
+          required: ["title", "description", "start_date", "deadline_date", "priority", "status"],
+          properties: {
+            title: {
+              bsonType: "string",
+              description: "Título da tarefa é obrigatório e deve ser uma string."
+            },
+            description: {
+              bsonType: "string",
+              description: "Descrição da tarefa é obrigatória e deve ser uma string."
+            },
+            start_date: {
+              bsonType: "date",
+              description: "Data de início da tarefa é obrigatória e deve ser uma data."
+            },
+            deadline_date: {
+              bsonType: "date",
+              description: "Data limite da tarefa é obrigatória e deve ser uma data."
+            },
+            priority: {
+              bsonType: "string",
+              enum: ["Baixa", "Média", "Alta"],
+              description: "Prioridade da tarefa deve ser uma das opções: Baixa, Média ou Alta."
+            },
+            status: {
+              bsonType: "string",
+              enum: ["Pendente", "Em Andamento", "Concluída"],
+              description: "Status da tarefa deve ser uma das opções: Pendente, Em Andamento ou Concluída."
+            }
+          }
+        }
+      },
+      users: {
+        bsonType: "array",
+        description: "Lista de usuários do projeto.",
+        items: {
+          bsonType: "object",
+          required: ["first_name", "last_name", "email", "cell_phone"],
+          properties: {
+            first_name: {
+              bsonType: "string",
+              description: "Nome do usuário é obrigatório e deve ser uma string."
+            },
+            last_name: {
+              bsonType: "string",
+              description: "Sobrenome do usuário é obrigatório e deve ser uma string."
+            },
+            email: {
+              bsonType: "string",
+              pattern: "^\\S+@\\S+\\.\\S+$", // Padrão de e-mail simples
+              description: "E-mail do usuário é obrigatório e deve ser um endereço de e-mail válido."
+            },
+            cell_phone: {
+              bsonType: "string",
+              pattern: "^\\d{11}$", // Padrão para número de telefone de 11 dígitos
+              description: "Número de celular do usuário é obrigatório e deve ter 11 dígitos."
+            }
+          }
+        }
+      }
+    }
+  }
+}
