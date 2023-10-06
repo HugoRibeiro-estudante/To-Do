@@ -1,0 +1,24 @@
+// estrutura do projeto
+
+{
+
+"name" : "",
+"start_date" : "",
+"end_date" : "",
+"tasks" : [ 
+  "title" : "",
+  "description" : "",
+  "start_date" : "",
+  "deadline_date" : "",
+  "priority" : "",
+  "status" : "",
+],
+
+"users" : [
+  "first_name" : "",
+  "last_name" : "",
+  "email" : "",
+  "cell_phone" : "",
+]
+
+}
