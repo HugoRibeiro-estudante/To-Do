@@ -1,0 +1,1116 @@
+
+
+[
+  {
+    "name": "Projeto 1",
+    "start_date": "2023-10-01",
+    "end_date": "2023-10-15",
+    "tasks": [
+      {
+        "title": "Tarefa 1",
+        "description": "Concluir a primeira tarefa",
+        "start_date": "2023-10-01",
+        "deadline_date": "2023-10-05",
+        "priority": "Alta",
+        "status": "Em Andamento"
+      },
+      {
+        "title": "Tarefa 2",
+        "description": "Preparar relatório de progresso",
+        "start_date": "2023-10-03",
+        "deadline_date": "2023-10-08",
+        "priority": "Média",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "João",
+        "last_name": "Silva",
+        "email": "joao.silva@example.com",
+        "cell_phone": "1234567890"
+      },
+      {
+        "first_name": "Maria",
+        "last_name": "Santos",
+        "email": "maria.santos@example.com",
+        "cell_phone": "9876543210"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 2",
+    "start_date": "2023-09-15",
+    "end_date": "2023-09-30",
+    "tasks": [
+      {
+        "title": "Tarefa 3",
+        "description": "Revisar documento final",
+        "start_date": "2023-09-20",
+        "deadline_date": "2023-09-25",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 4",
+        "description": "Realizar reunião de equipe",
+        "start_date": "2023-09-22",
+        "deadline_date": "2023-09-22",
+        "priority": "Alta",
+        "status": "Concluída"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Pedro",
+        "last_name": "Costa",
+        "email": "pedro.costa@example.com",
+        "cell_phone": "5555555555"
+      },
+      {
+        "first_name": "Ana",
+        "last_name": "Oliveira",
+        "email": "ana.oliveira@example.com",
+        "cell_phone": "7777777777"
+      }
+    ]
+  },
+   {
+    "name": "Projeto 3",
+    "start_date": "2023-09-01",
+    "end_date": "2023-09-15",
+    "tasks": [
+      {
+        "title": "Tarefa 5",
+        "description": "Desenvolver novo produto",
+        "start_date": "2023-09-01",
+        "deadline_date": "2023-09-10",
+        "priority": "Alta",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 6",
+        "description": "Realizar testes de produto",
+        "start_date": "2023-09-05",
+        "deadline_date": "2023-09-12",
+        "priority": "Média",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Luís",
+        "last_name": "Pereira",
+        "email": "luis.pereira@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Carla",
+        "last_name": "Ferreira",
+        "email": "carla.ferreira@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 4",
+    "start_date": "2023-08-25",
+    "end_date": "2023-09-08",
+    "tasks": [
+      {
+        "title": "Tarefa 7",
+        "description": "Criar plano de marketing",
+        "start_date": "2023-08-25",
+        "deadline_date": "2023-08-30",
+        "priority": "Alta",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 8",
+        "description": "Implementar campanha de marketing",
+        "start_date": "2023-08-31",
+        "deadline_date": "2023-09-05",
+        "priority": "Média",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "José",
+        "last_name": "Mendes",
+        "email": "jose.mendes@example.com",
+        "cell_phone": "4444444444"
+      },
+      {
+        "first_name": "Paula",
+        "last_name": "Rodrigues",
+        "email": "paula.rodrigues@example.com",
+        "cell_phone": "6666666666"
+      }
+    ]
+  },
+{
+    "name": "Projeto 5",
+    "start_date": "2023-08-10",
+    "end_date": "2023-08-25",
+    "tasks": [
+      {
+        "title": "Tarefa 9",
+        "description": "Desenvolver protótipo",
+        "start_date": "2023-08-10",
+        "deadline_date": "2023-08-18",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 10",
+        "description": "Realizar teste de usabilidade",
+        "start_date": "2023-08-20",
+        "deadline_date": "2023-08-23",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Rafael",
+        "last_name": "Sousa",
+        "email": "rafael.sousa@example.com",
+        "cell_phone": "1111111111"
+      },
+      {
+        "first_name": "Isabel",
+        "last_name": "Gomes",
+        "email": "isabel.gomes@example.com",
+        "cell_phone": "9999999999"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 6",
+    "start_date": "2023-07-20",
+    "end_date": "2023-08-05",
+    "tasks": [
+      {
+        "title": "Tarefa 11",
+        "description": "Definir requisitos do sistema",
+        "start_date": "2023-07-20",
+        "deadline_date": "2023-07-28",
+        "priority": "Alta",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 12",
+        "description": "Desenvolver código-fonte",
+        "start_date": "2023-07-30",
+        "deadline_date": "2023-08-04",
+        "priority": "Média",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Carlos",
+        "last_name": "Machado",
+        "email": "carlos.machado@example.com",
+        "cell_phone": "7777777777"
+      },
+      {
+        "first_name": "Sofia",
+        "last_name": "Pereira",
+        "email": "sofia.pereira@example.com",
+        "cell_phone": "8888888888"
+      }
+    ]
+  },
+ {
+    "name": "Projeto 7",
+    "start_date": "2023-07-05",
+    "end_date": "2023-07-20",
+    "tasks": [
+      {
+        "title": "Tarefa 13",
+        "description": "Realizar pesquisa de mercado",
+        "start_date": "2023-07-05",
+        "deadline_date": "2023-07-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 14",
+        "description": "Analisar concorrência",
+        "start_date": "2023-07-12",
+        "deadline_date": "2023-07-15",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Fernando",
+        "last_name": "Santana",
+        "email": "fernando.santana@example.com",
+        "cell_phone": "1234567890"
+      },
+      {
+        "first_name": "Clara",
+        "last_name": "Carvalho",
+        "email": "clara.carvalho@example.com",
+        "cell_phone": "9876543210"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 8",
+    "start_date": "2023-06-20",
+    "end_date": "2023-07-05",
+    "tasks": [
+      {
+        "title": "Tarefa 15",
+        "description": "Definir estratégia de vendas",
+        "start_date": "2023-06-20",
+        "deadline_date": "2023-06-28",
+        "priority": "Alta",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 16",
+        "description": "Lançar campanha de marketing",
+        "start_date": "2023-06-30",
+        "deadline_date": "2023-07-04",
+        "priority": "Média",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Daniel",
+        "last_name": "Almeida",
+        "email": "daniel.almeida@example.com",
+        "cell_phone": "5555555555"
+      },
+      {
+        "first_name": "Eva",
+        "last_name": "Ribeiro",
+        "email": "eva.ribeiro@example.com",
+        "cell_phone": "7777777777"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 9",
+    "start_date": "2023-06-05",
+    "end_date": "2023-06-20",
+    "tasks": [
+      {
+        "title": "Tarefa 17",
+        "description": "Desenvolver protótipo de aplicativo",
+        "start_date": "2023-06-05",
+        "deadline_date": "2023-06-12",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 18",
+        "description": "Realizar testes de usabilidade do aplicativo",
+        "start_date": "2023-06-15",
+        "deadline_date": "2023-06-18",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Vitor",
+        "last_name": "Lima",
+        "email": "vitor.lima@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Marta",
+        "last_name": "Sousa",
+        "email": "marta.sousa@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  },
+{
+    "name": "Projeto 10",
+    "start_date": "2023-05-20",
+    "end_date": "2023-06-05",
+    "tasks": [
+      {
+        "title": "Tarefa 19",
+        "description": "Revisar plano de negócios",
+        "start_date": "2023-05-20",
+        "deadline_date": "2023-05-25",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 20",
+        "description": "Preparar apresentação para investidores",
+        "start_date": "2023-05-27",
+        "deadline_date": "2023-06-02",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Gustavo",
+        "last_name": "Rocha",
+        "email": "gustavo.rocha@example.com",
+        "cell_phone": "1111111111"
+      },
+      {
+        "first_name": "Carolina",
+        "last_name": "Fonseca",
+        "email": "carolina.fonseca@example.com",
+        "cell_phone": "9999999999"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 11",
+    "start_date": "2023-05-05",
+    "end_date": "2023-05-20",
+    "tasks": [
+      {
+        "title": "Tarefa 21",
+        "description": "Conduzir pesquisa de mercado",
+        "start_date": "2023-05-05",
+        "deadline_date": "2023-05-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 22",
+        "description": "Analisar dados da pesquisa",
+        "start_date": "2023-05-12",
+        "deadline_date": "2023-05-15",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Ricardo",
+        "last_name": "Pires",
+        "email": "ricardo.pires@example.com",
+        "cell_phone": "7777777777"
+      },
+      {
+        "first_name": "Cátia",
+        "last_name": "Mendes",
+        "email": "catia.mendes@example.com",
+        "cell_phone": "8888888888"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 12",
+    "start_date": "2023-04-20",
+    "end_date": "2023-05-05",
+    "tasks": [
+      {
+        "title": "Tarefa 23",
+        "description": "Desenvolver novo recurso do aplicativo",
+        "start_date": "2023-04-20",
+        "deadline_date": "2023-04-30",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 24",
+        "description": "Testar e documentar o novo recurso",
+        "start_date": "2023-05-01",
+        "deadline_date": "2023-05-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Fábio",
+        "last_name": "Oliveira",
+        "email": "fabio.oliveira@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Laura",
+        "last_name": "Silveira",
+        "email": "laura.silveira@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  },
+{
+    "name": "Projeto 13",
+    "start_date": "2023-04-05",
+    "end_date": "2023-04-20",
+    "tasks": [
+      {
+        "title": "Tarefa 25",
+        "description": "Elaborar plano de marketing digital",
+        "start_date": "2023-04-05",
+        "deadline_date": "2023-04-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 26",
+        "description": "Executar campanhas publicitárias",
+        "start_date": "2023-04-12",
+        "deadline_date": "2023-04-15",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Eduardo",
+        "last_name": "Ribeiro",
+        "email": "eduardo.ribeiro@example.com",
+        "cell_phone": "1111111111"
+      },
+      {
+        "first_name": "Mariana",
+        "last_name": "Ferreira",
+        "email": "mariana.ferreira@example.com",
+        "cell_phone": "9999999999"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 14",
+    "start_date": "2023-03-20",
+    "end_date": "2023-04-05",
+    "tasks": [
+      {
+        "title": "Tarefa 27",
+        "description": "Desenvolver website corporativo",
+        "start_date": "2023-03-20",
+        "deadline_date": "2023-03-30",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 28",
+        "description": "Realizar testes de usabilidade do site",
+        "start_date": "2023-04-01",
+        "deadline_date": "2023-04-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "André",
+        "last_name": "Lima",
+        "email": "andre.lima@example.com",
+        "cell_phone": "7777777777"
+      },
+      {
+        "first_name": "Lara",
+        "last_name": "Pereira",
+        "email": "lara.pereira@example.com",
+        "cell_phone": "8888888888"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 15",
+    "start_date": "2023-03-05",
+    "end_date": "2023-03-20",
+    "tasks": [
+      {
+        "title": "Tarefa 29",
+        "description": "Realizar treinamento da equipe",
+        "start_date": "2023-03-05",
+        "deadline_date": "2023-03-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 30",
+        "description": "Avaliar resultados do treinamento",
+        "start_date": "2023-03-12",
+        "deadline_date": "2023-03-15",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Leonardo",
+        "last_name": "Silva",
+        "email": "leonardo.silva@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Camila",
+        "last_name": "Fonseca",
+        "email": "camila.fonseca@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  },
+
+{
+    "name": "Projeto 16",
+    "start_date": "2023-02-20",
+    "end_date": "2023-03-05",
+    "tasks": [
+      {
+        "title": "Tarefa 31",
+        "description": "Definir estratégia de expansão",
+        "start_date": "2023-02-20",
+        "deadline_date": "2023-02-28",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 32",
+        "description": "Implementar plano de expansão",
+        "start_date": "2023-03-01",
+        "deadline_date": "2023-03-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Ricardo",
+        "last_name": "Oliveira",
+        "email": "ricardo.oliveira@example.com",
+        "cell_phone": "1111111111"
+      },
+      {
+        "first_name": "Juliana",
+        "last_name": "Santos",
+        "email": "juliana.santos@example.com",
+        "cell_phone": "9999999999"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 17",
+    "start_date": "2023-02-05",
+    "end_date": "2023-02-20",
+    "tasks": [
+      {
+        "title": "Tarefa 33",
+        "description": "Desenvolver plano de ação",
+        "start_date": "2023-02-05",
+        "deadline_date": "2023-02-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 34",
+        "description": "Executar ações do plano",
+        "start_date": "2023-02-12",
+        "deadline_date": "2023-02-18",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Gustavo",
+        "last_name": "Fernandes",
+        "email": "gustavo.fernandes@example.com",
+        "cell_phone": "7777777777"
+      },
+      {
+        "first_name": "Ana",
+        "last_name": "Rodrigues",
+        "email": "ana.rodrigues@example.com",
+        "cell_phone": "8888888888"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 18",
+    "start_date": "2023-01-20",
+    "end_date": "2023-02-05",
+    "tasks": [
+      {
+        "title": "Tarefa 35",
+        "description": "Avaliar desempenho financeiro",
+        "start_date": "2023-01-20",
+        "deadline_date": "2023-01-28",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 36",
+        "description": "Preparar relatório de finanças",
+        "start_date": "2023-01-30",
+        "deadline_date": "2023-02-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Marcelo",
+        "last_name": "Sousa",
+        "email": "marcelo.sousa@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Patrícia",
+        "last_name": "Machado",
+        "email": "patricia.machado@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  },
+
+{
+    "name": "Projeto 19",
+    "start_date": "2022-12-15",
+    "end_date": "2022-12-31",
+    "tasks": [
+      {
+        "title": "Tarefa 37",
+        "description": "Realizar auditoria financeira",
+        "start_date": "2022-12-15",
+        "deadline_date": "2022-12-20",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 38",
+        "description": "Preparar relatório de auditoria",
+        "start_date": "2022-12-22",
+        "deadline_date": "2022-12-28",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Luisa",
+        "last_name": "Ferreira",
+        "email": "luisa.ferreira@example.com",
+        "cell_phone": "1111111111"
+      },
+      {
+        "first_name": "Lucas",
+        "last_name": "Oliveira",
+        "email": "lucas.oliveira@example.com",
+        "cell_phone": "9999999999"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 20",
+    "start_date": "2022-11-20",
+    "end_date": "2022-12-05",
+    "tasks": [
+      {
+        "title": "Tarefa 39",
+        "description": "Revisar políticas de RH",
+        "start_date": "2022-11-20",
+        "deadline_date": "2022-11-28",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 40",
+        "description": "Realizar treinamento de funcionários",
+        "start_date": "2022-11-30",
+        "deadline_date": "2022-12-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Paulo",
+        "last_name": "Silveira",
+        "email": "paulo.silveira@example.com",
+        "cell_phone": "7777777777"
+      },
+      {
+        "first_name": "Larissa",
+        "last_name": "Ribeiro",
+        "email": "larissa.ribeiro@example.com",
+        "cell_phone": "8888888888"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 21",
+    "start_date": "2022-11-05",
+    "end_date": "2022-11-20",
+    "tasks": [
+      {
+        "title": "Tarefa 41",
+        "description": "Avaliar fornecedores",
+        "start_date": "2022-11-05",
+        "deadline_date": "2022-11-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 42",
+        "description": "Negociar contratos com fornecedores",
+        "start_date": "2022-11-12",
+        "deadline_date": "2022-11-18",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Ana",
+        "last_name": "Machado",
+        "email": "ana.machado@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Rodrigo",
+        "last_name": "Fonseca",
+        "email": "rodrigo.fonseca@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  },
+ {
+    "name": "Projeto 22",
+    "start_date": "2022-10-20",
+    "end_date": "2022-11-05",
+    "tasks": [
+      {
+        "title": "Tarefa 43",
+        "description": "Definir estratégia de marketing",
+        "start_date": "2022-10-20",
+        "deadline_date": "2022-10-28",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 44",
+        "description": "Lançar campanha publicitária",
+        "start_date": "2022-10-30",
+        "deadline_date": "2022-11-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Rafael",
+        "last_name": "Santos",
+        "email": "rafael.santos@example.com",
+        "cell_phone": "1111111111"
+      },
+      {
+        "first_name": "Mariana",
+        "last_name": "Lima",
+        "email": "mariana.lima@example.com",
+        "cell_phone": "9999999999"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 23",
+    "start_date": "2022-10-05",
+    "end_date": "2022-10-20",
+    "tasks": [
+      {
+        "title": "Tarefa 45",
+        "description": "Realizar pesquisa de mercado",
+        "start_date": "2022-10-05",
+        "deadline_date": "2022-10-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 46",
+        "description": "Analisar concorrência",
+        "start_date": "2022-10-12",
+        "deadline_date": "2022-10-18",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Lucas",
+        "last_name": "Ferreira",
+        "email": "lucas.ferreira@example.com",
+        "cell_phone": "7777777777"
+      },
+      {
+        "first_name": "Carla",
+        "last_name": "Mendes",
+        "email": "carla.mendes@example.com",
+        "cell_phone": "8888888888"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 24",
+    "start_date": "2022-09-20",
+    "end_date": "2022-10-05",
+    "tasks": [
+      {
+        "title": "Tarefa 47",
+        "description": "Desenvolver protótipo de produto",
+        "start_date": "2022-09-20",
+        "deadline_date": "2022-09-28",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 48",
+        "description": "Realizar testes de produto",
+        "start_date": "2022-09-30",
+        "deadline_date": "2022-10-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Pedro",
+        "last_name": "Oliveira",
+        "email": "pedro.oliveira@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Sofia",
+        "last_name": "Silva",
+        "email": "sofia.silva@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  },
+ {
+    "name": "Projeto 25",
+    "start_date": "2022-09-05",
+    "end_date": "2022-09-20",
+    "tasks": [
+      {
+        "title": "Tarefa 49",
+        "description": "Elaborar plano de negócios",
+        "start_date": "2022-09-05",
+        "deadline_date": "2022-09-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 50",
+        "description": "Preparar apresentação para investidores",
+        "start_date": "2022-09-12",
+        "deadline_date": "2022-09-18",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Gustavo",
+        "last_name": "Lima",
+        "email": "gustavo.lima@example.com",
+        "cell_phone": "1111111111"
+      },
+      {
+        "first_name": "Julia",
+        "last_name": "Fonseca",
+        "email": "julia.fonseca@example.com",
+        "cell_phone": "9999999999"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 26",
+    "start_date": "2022-08-20",
+    "end_date": "2022-09-05",
+    "tasks": [
+      {
+        "title": "Tarefa 51",
+        "description": "Conduzir pesquisa de mercado",
+        "start_date": "2022-08-20",
+        "deadline_date": "2022-08-28",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 52",
+        "description": "Analisar dados da pesquisa",
+        "start_date": "2022-08-30",
+        "deadline_date": "2022-09-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Ricardo",
+        "last_name": "Silva",
+        "email": "ricardo.silva@example.com",
+        "cell_phone": "7777777777"
+      },
+      {
+        "first_name": "Mariana",
+        "last_name": "Oliveira",
+        "email": "mariana.oliveira@example.com",
+        "cell_phone": "8888888888"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 27",
+    "start_date": "2022-08-05",
+    "end_date": "2022-08-20",
+    "tasks": [
+      {
+        "title": "Tarefa 53",
+        "description": "Desenvolver novo recurso do aplicativo",
+        "start_date": "2022-08-05",
+        "deadline_date": "2022-08-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 54",
+        "description": "Testar e documentar o novo recurso",
+        "start_date": "2022-08-12",
+        "deadline_date": "2022-08-18",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Fábio",
+        "last_name": "Pereira",
+        "email": "fabio.pereira@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Laura",
+        "last_name": "Ferreira",
+        "email": "laura.ferreira@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  },
+{
+    "name": "Projeto 28",
+    "start_date": "2022-07-20",
+    "end_date": "2022-08-05",
+    "tasks": [
+      {
+        "title": "Tarefa 55",
+        "description": "Planejar evento de lançamento",
+        "start_date": "2022-07-20",
+        "deadline_date": "2022-07-28",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 56",
+        "description": "Coordenar logística do evento",
+        "start_date": "2022-07-30",
+        "deadline_date": "2022-08-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Felipe",
+        "last_name": "Santos",
+        "email": "felipe.santos@example.com",
+        "cell_phone": "1111111111"
+      },
+      {
+        "first_name": "Larissa",
+        "last_name": "Mendes",
+        "email": "larissa.mendes@example.com",
+        "cell_phone": "9999999999"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 29",
+    "start_date": "2022-07-05",
+    "end_date": "2022-07-20",
+    "tasks": [
+      {
+        "title": "Tarefa 57",
+        "description": "Definir estratégia de marketing digital",
+        "start_date": "2022-07-05",
+        "deadline_date": "2022-07-10",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 58",
+        "description": "Lançar campanha de mídia social",
+        "start_date": "2022-07-12",
+        "deadline_date": "2022-07-18",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Lucas",
+        "last_name": "Oliveira",
+        "email": "lucas.oliveira@example.com",
+        "cell_phone": "7777777777"
+      },
+      {
+        "first_name": "Camila",
+        "last_name": "Santos",
+        "email": "camila.santos@example.com",
+        "cell_phone": "8888888888"
+      }
+    ]
+  },
+  {
+    "name": "Projeto 30",
+    "start_date": "2022-06-20",
+    "end_date": "2022-07-05",
+    "tasks": [
+      {
+        "title": "Tarefa 59",
+        "description": "Realizar análise de mercado",
+        "start_date": "2022-06-20",
+        "deadline_date": "2022-06-28",
+        "priority": "Média",
+        "status": "Concluída"
+      },
+      {
+        "title": "Tarefa 60",
+        "description": "Desenvolver estratégia de vendas",
+        "start_date": "2022-06-30",
+        "deadline_date": "2022-07-05",
+        "priority": "Alta",
+        "status": "Pendente"
+      }
+    ],
+    "users": [
+      {
+        "first_name": "Rafael",
+        "last_name": "Silva",
+        "email": "rafael.silva@example.com",
+        "cell_phone": "2222222222"
+      },
+      {
+        "first_name": "Mariana",
+        "last_name": "Fonseca",
+        "email": "mariana.fonseca@example.com",
+        "cell_phone": "3333333333"
+      }
+    ]
+  }
+]
