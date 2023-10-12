@@ -1,0 +1,15 @@
+//Alterar quem será o usuário responsável pela tarefa
+db.to_do.updateOne({"users.first_name": "João"},{$set: {"users.$.first_name":"Hugo","users.$.last_name": "Ribeiro","users.$.email": "hugo@email.com", "users.$.cell_phone": "9876554411"}})
+
+//Dilatar o prazo de entrega da tarefa
+db.to_do.updateOne({"tasks.title": "Tarefa 2"},{$set: {"tasks.$.deadline_date":"2023-12-01"}})
+
+//Mudar o status de “In Progress” para “Complete”
+
+db.to_do.updateOne({"tasks.title": "Tarefa 1"},{$set: {"tasks.$.status":"Concluida"}})
+
+//Mudar a prioridade da tarefa para "Baixa"
+db.to_do.updateOne({"tasks.title": "Tarefa 1"},{$set: {"tasks.$.priority":"Baixa"}})
+
+//Mudar a descrição da tarefa 
+db.to_do.updateOne({"tasks.title":"Tarefa 1"},{$set: {"tasks.$.description":"Prototipar tela do projeto"}})
